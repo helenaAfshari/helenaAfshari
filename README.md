@@ -64,7 +64,7 @@ Flutter developer <br>I'm looking for Collaborate on Flutter Projects<br> you ca
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=helenaAfshari-git&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=helenaAfshari-git&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=helenaAfshari-git&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=helenaAfshari&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Miladkh-git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
