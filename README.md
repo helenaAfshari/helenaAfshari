@@ -48,7 +48,7 @@ Flutter developer <br>I'm looking for Collaborate on Flutter Projects<br> you ca
     <img src="https://skillicons.dev/icons?i=email&theme=dark" />
   </a>
   <a href="https://mail.google.com/in/afshari.hln@gmail.com-54798b202/">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=email&theme=dark" />
   </a>
    
  
