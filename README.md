@@ -27,13 +27,13 @@ Flutter developer <br>I'm looking for Collaborate on Flutter Projects<br> you ca
 
 ### Stats
   <a href="https://github.com/helenaAfshari">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanaAfshari&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=helenaAfshari&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
 </br>
 <br>
 
 </br>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanaAfshari&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenaAfshari&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 ##
 
