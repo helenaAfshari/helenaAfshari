@@ -28,7 +28,7 @@ Flutter developer <br>I'm looking for Collaborate on Flutter Projects<br> you ca
 ### Stats
   <a href="https://github.com/helenaAfshari">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=helenaAfshari&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" /></a>
+
 
 </br>
 <br>
@@ -47,6 +47,7 @@ Flutter developer <br>I'm looking for Collaborate on Flutter Projects<br> you ca
   <a href="https://www.linkedin.com/in/hana-afshari-54798b202/">
     <img src="https://skillicons.dev/icons?i=email&theme=dark" />
   </a>
+
   
    
  
