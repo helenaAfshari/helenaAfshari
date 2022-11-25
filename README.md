@@ -44,9 +44,7 @@ Flutter developer <br>I'm looking for Collaborate on Flutter Projects<br> you ca
   <a href="https://www.linkedin.com/in/hana-afshari-54798b202/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://www.linkedin.com/in/hana-afshari-54798b202/">
-    <img src="https://skillicons.dev/icons?i=email&theme=dark" />
-  </a>
+
 
   
    
